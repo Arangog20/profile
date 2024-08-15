@@ -1,6 +1,7 @@
 <template>
   <navegation/>
   <hprofiler/>
+  <profiler/>
   <team/>
 </template>
 
@@ -8,5 +9,6 @@
 import team from './components/team.vue';
 import navegation from './components/navegation.vue';
 import hprofile from './components/hprofile.vue';
+import profile from './components/profile.vue';
 
 </script>
